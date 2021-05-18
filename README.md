@@ -3,8 +3,8 @@ Repositorio donde realizo o realicé practicas del curso de Flutter avanzado en 
 
 ## Lista de actividades
 Programas a instalar para el curso de flutter
-- [ ] Instalando postman
-- [ ] Instalando MongoDB
+- [x] Instalando postman
+- [x] Instalando MongoDB
 
 ### 1. RealTime Chat.
 Abarca la seccion 6
